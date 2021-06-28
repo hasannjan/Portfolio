@@ -122,7 +122,7 @@ html{
 /* home section styling */
 .home {
     display: flex;
-    background: url(/Public/images/v748-toon-131.jpg) no-repeat center;    
+    background: url(./images/v748-toon-131.jpg) no-repeat center;   
     height: 100vh;
     color: #fff;
     min-height: 500px;
